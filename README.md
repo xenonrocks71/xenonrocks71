@@ -1,6 +1,7 @@
 # HELLO, I'M MAYUR PATIL 👋
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=false&vCenter=true&width=500&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%92%A1;PHP+Expert+%E2%9A%99%EF%B8%8F;Turning+Ideas+Into+Reality+%F0%9F%94%A5)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding GIF"/>
